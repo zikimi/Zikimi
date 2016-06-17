@@ -1,0 +1,1388 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.25)  17 JUN 2016 15:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Zikimi(Latex)_1.tex
+(./Zikimi(Latex)_1.tex
+LaTeX2e <2016/03/31>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(c:/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/02/08 v1.8o multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count95
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(c:/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count97
+\lst@gtempboxa=\box52
+\lst@token=\toks15
+\lst@length=\count98
+\lst@currlwidth=\dimen114
+\lst@column=\count99
+\lst@pos=\count100
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count101
+\lst@lineno=\count102
+\lst@maxwidth=\dimen117
+
+(c:/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count103
+\lst@skipnumbers=\count104
+\lst@framebox=\box53
+)
+(c:/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks16
+)
+(c:/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip45
+\f@ncyO@elh=\skip46
+\f@ncyO@erh=\skip47
+\f@ncyO@olh=\skip48
+\f@ncyO@orh=\skip49
+\f@ncyO@elf=\skip50
+\f@ncyO@erf=\skip51
+\f@ncyO@olf=\skip52
+\f@ncyO@orf=\skip53
+)
+(./Zikimi(Latex)_1.aux)
+\openout1 = `Zikimi(Latex)_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen126
+\scratchbox=\box54
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen127
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks18
+) (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.jpeg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count114
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: legalpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(121.41483pt, 708.2429pt, 182.12227pt)
+* \paperwidth=614.295pt
+* \paperheight=1011.78pt
+* \textwidth=430.00462pt
+* \textheight=708.2429pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=12.14484pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<teamlogo.jpg, id=1, 260.47313pt x 210.03468pt>
+File: teamlogo.jpg Graphic file (type jpg)
+ <use teamlogo.jpg>
+Package pdftex.def Info: teamlogo.jpg used on input line 36.
+(pdftex.def)             Requested size: 364.65988pt x 294.04654pt.
+
+Overfull \hbox (1.731pt too wide) in paragraph at lines 46--46
+ []\OT1/cmr/m/sc/12 william109@naver.com 
+ []
+
+[1
+
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./teamlogo.jpg>
+] (./Zikimi(Latex)_1.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1])
+\tf@toc=\write3
+\openout3 = `Zikimi(Latex)_1.toc'.
+
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 170.
+
+ (c:/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 170.
+
+<windowsgraph.png, id=23, 850.67813pt x 553.31718pt>
+File: windowsgraph.png Graphic file (type png)
+ <use windowsgraph.png>
+Package pdftex.def Info: windowsgraph.png used on input line 173.
+(pdftex.def)             Requested size: 1701.35211pt x 1106.63165pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
+
+ []
+
+<androidgraph.png, id=24, 506.6428pt x 702.37407pt>
+File: androidgraph.png Graphic file (type png)
+ <use androidgraph.png>
+Package pdftex.def Info: androidgraph.png used on input line 182.
+(pdftex.def)             Requested size: 759.96236pt x 1053.55853pt.
+
+[3 <./windowsgraph.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 185--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--200
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+[4 <./androidgraph.png>] <cost.png, id=35, 511.1898pt x 505.89pt>
+File: cost.png Graphic file (type png)
+
+<use cost.png>
+Package pdftex.def Info: cost.png used on input line 212.
+(pdftex.def)             Requested size: 1124.61325pt x 1112.95369pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+
+ []
+
+[5 <./cost.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--234
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--245
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Overfull \hbox (25.92401pt too wide) in paragraph at lines 254--256
+\OT1/cmr/m/n/12 In this project, Work flow is my-Player - FrameGrab-bing-Con-tr
+ol fgc - fgc.grabFrame()
+ []
+
+
+Overfull \hbox (2.45616pt too wide) in paragraph at lines 258--264
+\OT1/cmr/m/n/12 (https://play.google.com/store/apps/details?id=com.psa.android.
+mediahl=en) 
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+<avm.jpg, id=43, 301.125pt x 179.16937pt>
+File: avm.jpg Graphic file (type jpg)
+ <use avm.jpg>
+Package pdftex.def Info: avm.jpg used on input line 266.
+(pdftex.def)             Requested size: 602.2485pt x 358.33786pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--278
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--283
+
+ []
+
+[7 <./avm.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 283--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--291
+
+ []
+
+[8] <basicstreaming.png, id=50, 722.7pt x 1204.5pt>
+File: basicstreaming.png Graphic file (type png)
+ <use basicstreaming.png>
+Package pdftex.def Info: basicstreaming.png used on input line 307.
+(pdftex.def)             Requested size: 867.23566pt x 1445.3928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
+
+ []
+
+[9 <./basicstreaming.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+<login.png, id=56, 722.7pt x 1204.5pt>
+File: login.png Graphic file (type png)
+ <use login.png>
+Package pdftex.def Info: login.png used on input line 331.
+(pdftex.def)             Requested size: 867.23566pt x 1445.3928pt.
+
+<laptoplogin.jpg, id=57, 1963.335pt x 1204.5pt>
+File: laptoplogin.jpg Graphic file (type jpg)
+ <use laptoplogin.jpg>
+Package pdftex.def Info: laptoplogin.jpg used on input line 337.
+(pdftex.def)             Requested size: 2355.99028pt x 1445.3928pt.
+ [10 <./login.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ <InitialMenuScreen.png, id=63, 722.7pt x 1204.5pt>
+File: InitialMenuScreen.png Graphic file (type png)
+
+<use InitialMenuScreen.png>
+Package pdftex.def Info: InitialMenuScreen.png used on input line 357.
+(pdftex.def)             Requested size: 867.23566pt x 1445.3928pt.
+ [11 <./laptoplogin.jpg>]
+<initialmenuscreencomputer.jpg, id=67, 1963.335pt x 1204.5pt>
+File: initialmenuscreencomputer.jpg Graphic file (type jpg)
+
+<use initialmenuscreencomputer.jpg>
+Package pdftex.def Info: initialmenuscreencomputer.jpg used on input line 363.
+(pdftex.def)             Requested size: 2355.99028pt x 1445.3928pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [12 <./InitialMenuScreen.png> <./initialmenuscreencomputer.jpg>] <warning.png,
+ id=72, 311.7246pt x 442.2924pt>
+File: warning.png Graphic file (type png)
+
+<use warning.png>
+Package pdftex.def Info: warning.png used on input line 384.
+(pdftex.def)             Requested size: 374.06764pt x 530.74823pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--391
+
+ []
+
+<warningmessage.jpg, id=73, 1963.335pt x 1204.5pt>
+File: warningmessage.jpg Graphic file (type jpg)
+ <use warningmessage.jpg>
+Package pdftex.def Info: warningmessage.jpg used on input line 392.
+(pdftex.def)             Requested size: 2355.99028pt x 1445.3928pt.
+
+[13 <./warning.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+ <battery.png, id=78, 313.17pt x 451.4466pt>
+File: battery.png Graphic file (type png)
+
+<use battery.png>
+Package pdftex.def Info: battery.png used on input line 410.
+(pdftex.def)             Requested size: 375.8021pt x 541.73318pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+
+ []
+
+[14 <./warningmessage.jpg> <./battery.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+ []
+
+<charger.png, id=83, 382.5492pt x 145.9854pt>
+File: charger.png Graphic file (type png)
+ <use charger.png>
+Package pdftex.def Info: charger.png used on input line 423.
+(pdftex.def)             Requested size: 459.05672pt x 175.18158pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
+
+ []
+
+<usbremoved.png, id=84, 383.9946pt x 145.5036pt>
+File: usbremoved.png Graphic file (type png)
+ <use usbremoved.png>
+Package pdftex.def Info: usbremoved.png used on input line 438.
+(pdftex.def)             Requested size: 460.7912pt x 174.60342pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--448
+
+ []
+
+[15 <./charger.png> <./usbremoved.png>]
+<mousemoved.png, id=90, 383.9946pt x 152.2488pt>
+File: mousemoved.png Graphic file (type png)
+ <use mousemoved.png>
+Package pdftex.def Info: mousemoved.png used on input line 453.
+(pdftex.def)             Requested size: 460.7912pt x 182.69762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--463
+
+ []
+
+<keyboard.png, id=91, 384.9582pt x 151.2852pt>
+File: keyboard.png Graphic file (type png)
+ <use keyboard.png>
+Package pdftex.def Info: keyboard.png used on input line 468.
+(pdftex.def)             Requested size: 461.94753pt x 181.54132pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--478
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--484
+
+ []
+
+[16 <./mousemoved.png> <./keyboard.png>]
+Overfull \hbox (6.3782pt too wide) in paragraph at lines 485--485
+[]\OT1/cmr/bx/n/14.4 Recording Func-tion (Con-trol record-ing through An-droid)
+ 
+ []
+
+<record.png, id=98, 311.7246pt x 444.7014pt>
+File: record.png Graphic file (type png)
+ <use record.png>
+Package pdftex.def Info: record.png used on input line 487.
+(pdftex.def)             Requested size: 374.06764pt x 533.63902pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
+
+ []
+
+[17 <./record.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 496--498
+
+ []
+
+<location.png, id=103, 384.9582pt x 145.0218pt>
+File: location.png Graphic file (type png)
+ <use location.png>
+Package pdftex.def Info: location.png used on input line 502.
+(pdftex.def)             Requested size: 461.94753pt x 174.02527pt.
+ [18 <./location.png>]
+Overfull \hbox (15.07318pt too wide) in paragraph at lines 513--513
+[]\OT1/cmr/bx/n/17.28 Architecture De-sign and Im-ple-men-ta-tion(Partial) 
+ []
+
+<overallarchitecture.jpg, id=108, 759.58781pt x 425.33907pt>
+File: overallarchitecture.jpg Graphic file (type jpg)
+
+<use overallarchitecture.jpg>
+Package pdftex.def Info: overallarchitecture.jpg used on input line 517.
+(pdftex.def)             Requested size: 1367.25702pt x 765.60971pt.
+
+<webarchitecture.jpg, id=109, 463.7325pt x 393.72093pt>
+File: webarchitecture.jpg Graphic file (type jpg)
+
+<use webarchitecture.jpg>
+Package pdftex.def Info: webarchitecture.jpg used on input line 522.
+(pdftex.def)             Requested size: 834.71785pt x 708.69714pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--528
+
+ []
+
+[19 <./overallarchitecture.jpg> <./webarchitecture.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 528--532
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--532
+
+ []
+
+<laptoparchitecture.jpg, id=113, 676.02562pt x 394.47375pt>
+File: laptoparchitecture.jpg Graphic file (type jpg)
+
+<use laptoparchitecture.jpg>
+Package pdftex.def Info: laptoparchitecture.jpg used on input line 536.
+(pdftex.def)             Requested size: 1216.84518pt x 710.0522pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--542
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--546
+
+ []
+
+<androidarchitecture.jpg, id=114, 646.66594pt x 379.4175pt>
+File: androidarchitecture.jpg Graphic file (type jpg)
+
+<use androidarchitecture.jpg>
+Package pdftex.def Info: androidarchitecture.jpg used on input line 550.
+(pdftex.def)             Requested size: 1163.9978pt x 682.95097pt.
+ [20 <./laptoparchitecture.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 553--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--560
+
+ []
+
+<directory.png, id=118, 452.892pt x 544.434pt>
+File: directory.png Graphic file (type png)
+ <use directory.png>
+Package pdftex.def Info: directory.png used on input line 564.
+(pdftex.def)             Requested size: 815.20497pt x 979.98045pt.
+ [21 <./androidarchitecture.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 571--574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--582
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--582
+
+ []
+
+[22 <./directory.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 583--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--594
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--594
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+
+ []
+
+[23] <streaming.png, id=130, 457.2282pt x 353.6412pt>
+File: streaming.png Graphic file (type png)
+ <use streaming.png>
+Package pdftex.def Info: streaming.png used on input line 615.
+(pdftex.def)             Requested size: 823.01013pt x 636.55365pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--620
+
+ []
+
+<streamingstep2.jpg, id=131, 541.27219pt x 341.77687pt>
+File: streamingstep2.jpg Graphic file (type jpg)
+
+<use streamingstep2.jpg>
+Package pdftex.def Info: streamingstep2.jpg used on input line 621.
+(pdftex.def)             Requested size: 974.28918pt x 615.19789pt.
+ [24 <./streaming.png> <./streamingstep2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 624--626
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--626
+
+ []
+
+<streamingstep3.jpg, id=136, 356.0803pt x 566.115pt>
+File: streamingstep3.jpg Graphic file (type jpg)
+ <use streamingstep3.jpg>
+Package pdftex.def Info: streamingstep3.jpg used on input line 628.
+(pdftex.def)             Requested size: 356.07944pt x 566.11362pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--632
+
+ []
+
+<streamingstep4.jpg, id=137, 459.21562pt x 722.7pt>
+File: streamingstep4.jpg Graphic file (type jpg)
+ <use streamingstep4.jpg>
+Package pdftex.def Info: streamingstep4.jpg used on input line 633.
+(pdftex.def)             Requested size: 459.2145pt x 722.69823pt.
+
+[25 <./streamingstep3.jpg> <./streamingstep4.jpg>]
+<warningsystem.png, id=141, 374.3586pt x 462.0462pt>
+File: warningsystem.png Graphic file (type png)
+ <use warningsystem.png>
+Package pdftex.def Info: warningsystem.png used on input line 639.
+(pdftex.def)             Requested size: 673.84496pt x 831.68251pt.
+
+[26 <./warningsystem.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
+
+ []
+
+<warningstep1.png, id=146, 542.025pt x 963.6pt>
+File: warningstep1.png Graphic file (type png)
+ <use warningstep1.png>
+Package pdftex.def Info: warningstep1.png used on input line 646.
+(pdftex.def)             Requested size: 542.02367pt x 963.59766pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--650
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--650
+
+ []
+
+<warningstep3.jpg, id=147, 220.57407pt x 345.54094pt>
+File: warningstep3.jpg Graphic file (type jpg)
+ <use warningstep3.jpg>
+Package pdftex.def Info: warningstep3.jpg used on input line 652.
+(pdftex.def)             Requested size: 220.57352pt x 345.54008pt.
+
+[27 <./warningstep1.png> <./warningstep3.jpg>]
+<visual1.png, id=151, 507.8975pt x 460.72125pt>
+File: visual1.png Graphic file (type png)
+ <use visual1.png>
+Package pdftex.def Info: visual1.png used on input line 666.
+(pdftex.def)             Requested size: 660.2667pt x 598.93756pt.
+
+<visual2.png, id=152, 507.8975pt x 460.72125pt>
+File: visual2.png Graphic file (type png)
+ <use visual2.png>
+Package pdftex.def Info: visual2.png used on input line 671.
+(pdftex.def)             Requested size: 660.2667pt x 598.93756pt.
+ [28 <./visual1.png> <./visual2.png>] <visual3.png, id=157, 507.8975pt x 460.72
+125pt>
+File: visual3.png Graphic file (type png)
+
+<use visual3.png>
+Package pdftex.def Info: visual3.png used on input line 676.
+(pdftex.def)             Requested size: 660.2667pt x 598.93756pt.
+ <visual4.png, id=158, 507.8975pt x 460.72125pt>
+File: visual4.png Graphic file (type png)
+
+<use visual4.png>
+Package pdftex.def Info: visual4.png used on input line 681.
+(pdftex.def)             Requested size: 660.2667pt x 598.93756pt.
+ [29 <./visual3.png> <./visual4.png>]
+<visual5.png, id=162, 507.8975pt x 460.72125pt>
+File: visual5.png Graphic file (type png)
+ <use visual5.png>
+Package pdftex.def Info: visual5.png used on input line 686.
+(pdftex.def)             Requested size: 660.2667pt x 598.93756pt.
+
+<visual6.png, id=163, 531.9875pt x 278.03876pt>
+File: visual6.png Graphic file (type png)
+ <use visual6.png>
+Package pdftex.def Info: visual6.png used on input line 690.
+(pdftex.def)             Requested size: 691.58368pt x 361.45033pt.
+
+<android1.jpg, id=164, 732.7375pt x 431.6125pt>
+File: android1.jpg Graphic file (type jpg)
+ <use android1.jpg>
+Package pdftex.def Info: android1.jpg used on input line 696.
+(pdftex.def)             Requested size: 952.55865pt x 561.09618pt.
+ [30 <./visual5.png> <./visual6.png> <./android1.jpg>]
+<android2.jpg, id=168, 504.88625pt x 387.4475pt>
+File: android2.jpg Graphic file (type jpg)
+ <use android2.jpg>
+Package pdftex.def Info: android2.jpg used on input line 702.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+
+<android3.jpg, id=169, 504.88625pt x 387.4475pt>
+File: android3.jpg Graphic file (type jpg)
+ <use android3.jpg>
+Package pdftex.def Info: android3.jpg used on input line 706.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+
+<android4.jpg, id=170, 504.88625pt x 387.4475pt>
+File: android4.jpg Graphic file (type jpg)
+ <use android4.jpg>
+Package pdftex.def Info: android4.jpg used on input line 710.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+
+<android5.jpg, id=171, 504.88625pt x 387.4475pt>
+File: android5.jpg Graphic file (type jpg)
+ <use android5.jpg>
+Package pdftex.def Info: android5.jpg used on input line 714.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+ [31 <./android2.jpg> <./android3.jpg> <./android4.jpg>]
+<android6.jpg, id=175, 504.88625pt x 387.4475pt>
+File: android6.jpg Graphic file (type jpg)
+ <use android6.jpg>
+Package pdftex.def Info: android6.jpg used on input line 718.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+
+<android7.jpg, id=176, 504.88625pt x 387.4475pt>
+File: android7.jpg Graphic file (type jpg)
+ <use android7.jpg>
+Package pdftex.def Info: android7.jpg used on input line 722.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+
+<android8.jpg, id=177, 504.88625pt x 387.4475pt>
+File: android8.jpg Graphic file (type jpg)
+ <use android8.jpg>
+Package pdftex.def Info: android8.jpg used on input line 726.
+(pdftex.def)             Requested size: 656.35202pt x 503.68169pt.
+ [32 <./android5.jpg> <./android6.jpg> <./android7.jpg>]
+<android9.jpg, id=181, 732.7375pt x 549.05125pt>
+File: android9.jpg Graphic file (type jpg)
+ <use android9.jpg>
+Package pdftex.def Info: android9.jpg used on input line 731.
+(pdftex.def)             Requested size: 952.55865pt x 713.76656pt.
+
+<android10.jpg, id=182, 732.7375pt x 550.055pt>
+File: android10.jpg Graphic file (type jpg)
+ <use android10.jpg>
+Package pdftex.def Info: android10.jpg used on input line 736.
+(pdftex.def)             Requested size: 952.55865pt x 715.07141pt.
+ [33 <./android8.jpg> <./android9.jpg> <./android10.jpg>]
+<android11.jpg, id=186, 732.7375pt x 550.055pt>
+File: android11.jpg Graphic file (type jpg)
+ <use android11.jpg>
+Package pdftex.def Info: android11.jpg used on input line 741.
+(pdftex.def)             Requested size: 952.55865pt x 715.07141pt.
+
+<android12.jpg, id=187, 732.7375pt x 550.055pt>
+File: android12.jpg Graphic file (type jpg)
+ <use android12.jpg>
+Package pdftex.def Info: android12.jpg used on input line 745.
+(pdftex.def)             Requested size: 952.55865pt x 715.07141pt.
+
+<android13.jpg, id=188, 732.7375pt x 671.50874pt>
+File: android13.jpg Graphic file (type jpg)
+ <use android13.jpg>
+Package pdftex.def Info: android13.jpg used on input line 749.
+(pdftex.def)             Requested size: 952.55865pt x 872.96129pt.
+ [34 <./android11.jpg> <./android12.jpg> <./android13.jpg>]
+<android14.jpg, id=193, 732.7375pt x 550.055pt>
+File: android14.jpg Graphic file (type jpg)
+ <use android14.jpg>
+Package pdftex.def Info: android14.jpg used on input line 754.
+(pdftex.def)             Requested size: 952.55865pt x 715.07141pt.
+
+<chrome1.png, id=194, 617.30624pt x 333.49594pt>
+File: chrome1.png Graphic file (type png)
+ <use chrome1.png>
+Package pdftex.def Info: chrome1.png used on input line 761.
+(pdftex.def)             Requested size: 802.49803pt x 433.54466pt.
+
+<chrome2.png, id=195, 459.96844pt x 290.58563pt>
+File: chrome2.png Graphic file (type png)
+ <use chrome2.png>
+Package pdftex.def Info: chrome2.png used on input line 765.
+(pdftex.def)             Requested size: 597.95891pt x 377.76128pt.
+
+<chrome3.png, id=196, 532.99126pt x 305.14pt>
+File: chrome3.png Graphic file (type png)
+ <use chrome3.png>
+Package pdftex.def Info: chrome3.png used on input line 769.
+(pdftex.def)             Requested size: 692.88857pt x 396.68193pt.
+ [35 <./android14.jpg> <./chrome1.png> <./chrome2.png>]
+<chrome4.png, id=202, 658.46pt x 311.1625pt>
+File: chrome4.png Graphic file (type png)
+ <use chrome4.png>
+Package pdftex.def Info: chrome4.png used on input line 773.
+(pdftex.def)             Requested size: 855.99792pt x 404.51122pt.
+
+<jdk1.jpg, id=203, 549.55313pt x 231.86626pt>
+File: jdk1.jpg Graphic file (type jpg)
+ <use jdk1.jpg>
+Package pdftex.def Info: jdk1.jpg used on input line 780.
+(pdftex.def)             Requested size: 714.41899pt x 301.42609pt.
+
+<jdk2.jpg, id=204, 442.65375pt x 431.36156pt>
+File: jdk2.jpg Graphic file (type jpg)
+ <use jdk2.jpg>
+Package pdftex.def Info: jdk2.jpg used on input line 784.
+(pdftex.def)             Requested size: 575.44978pt x 560.76996pt.
+ [36 <./chrome3.png> <./chrome4.png> <./jdk1.jpg> <./jdk2.jpg>]
+<jdk3.jpg, id=208, 441.14813pt x 554.07pt>
+File: jdk3.jpg Graphic file (type jpg)
+ <use jdk3.jpg>
+Package pdftex.def Info: jdk3.jpg used on input line 789.
+(pdftex.def)             Requested size: 573.49251pt x 720.29092pt.
+
+<jdk4.jpg, id=209, 363.60844pt x 322.95656pt>
+File: jdk4.jpg Graphic file (type jpg)
+ <use jdk4.jpg>
+Package pdftex.def Info: jdk4.jpg used on input line 794.
+(pdftex.def)             Requested size: 472.6909pt x 419.84348pt.
+ [37 <./jdk3.jpg> <./jdk4.jpg>] <jdk5.jpg, id=213, 448.67625pt x 394.47375pt>
+File: jdk5.jpg Graphic file (type jpg)
+ <use jdk5.jpg>
+Package pdftex.def Info: jdk5.jpg used on input line 799.
+(pdftex.def)             Requested size: 583.27907pt x 512.81581pt.
+
+<jdk6.jpg, id=214, 404.51125pt x 123.46124pt>
+File: jdk6.jpg Graphic file (type jpg)
+ <use jdk6.jpg>
+Package pdftex.def Info: jdk6.jpg used on input line 804.
+(pdftex.def)             Requested size: 525.86456pt x 160.49957pt.
+
+<jdk7.jpg, id=215, 404.51125pt x 123.46124pt>
+File: jdk7.jpg Graphic file (type jpg)
+ <use jdk7.jpg>
+Package pdftex.def Info: jdk7.jpg used on input line 809.
+(pdftex.def)             Requested size: 525.86456pt x 160.49957pt.
+
+<jdk8.jpg, id=216, 670.505pt x 432.61626pt>
+File: jdk8.jpg Graphic file (type jpg)
+ <use jdk8.jpg>
+Package pdftex.def Info: jdk8.jpg used on input line 814.
+(pdftex.def)             Requested size: 871.65642pt x 562.40108pt.
+ [38 <./jdk5.jpg> <./jdk6.jpg> <./jdk7.jpg> <./jdk8.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+[39] (./Zikimi(Latex)_1.aux) ) 
+Here is how much of TeX's memory you used:
+ 3779 strings out of 493027
+ 55110 string characters out of 6137684
+ 128044 words of memory out of 5000000
+ 7226 multiletter control sequences out of 15000+600000
+ 9755 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,12n,43p,1025b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Zikimi(Latex)_1.pdf (42 pages, 7863524 bytes).
+PDF statistics:
+ 244 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+
